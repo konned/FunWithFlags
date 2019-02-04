@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fun with flags</string>
+    <string name="retry">Retry</string>
+    <string name="post_error">An error occurred while loading the posts</string>
+    <string name="Common">Common</string>
+    <string name="alphaCode">Alpha Code</string>
+    <string name="Demonym">Demonym</string>
+    <string name="OfficialNative">Official (native)</string>
+    <string name="AlternativeSpellings">Spellings</string>
+
+
+</resources>
